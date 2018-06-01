@@ -15,6 +15,10 @@ public class EmployeeManagementSystem {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        
+        Arithematic arithematic = new Arithematic();
+        System.out.println(arithematic.sum(10,20));
         // TODO code application logic here
     }
     
